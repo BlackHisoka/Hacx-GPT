@@ -32,13 +32,6 @@
 
 ---
 
-## 🚀 Showcase
-
-Here is a glimpse of the HacxGPT framework in action.
-
-![HacxGPT Demo Screenshot](https://github.com/BlackHisoka/Hacx-GPT/blob/main/img/home.png)
-
-
 
 ---
 
